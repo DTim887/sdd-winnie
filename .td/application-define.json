@@ -1,0 +1,5 @@
+{
+  "mall-web": "frontend",
+  "product-service": "backend",
+  "order-service": "backend"
+}
