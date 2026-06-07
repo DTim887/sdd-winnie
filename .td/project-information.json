@@ -1,0 +1,19 @@
+{
+  "projectName":"sdd-winnie",
+  "applications":[
+    {
+      "name":"mall-web",
+      "techStack": "frontend"
+    },
+    {
+      "name":"product-service",
+      "techStack": "backend"
+    },
+    {
+      "name":"order-service",
+      "techStack": "backend"
+    }
+  ]
+}
+
+
