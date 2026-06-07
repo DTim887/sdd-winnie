@@ -3,15 +3,18 @@
   "applications":[
     {
       "name":"mall-web",
-      "techStack": "frontend"
+      "devSpec": "frontend",
+      "description": "线上商城的前端UI"
     },
     {
       "name":"product-service",
-      "techStack": "backend"
+      "devSpec": "backend",
+      "description": "产品信息服务: 提供产品信息的后端接口"
     },
     {
       "name":"order-service",
-      "techStack": "backend"
+      "devSpec": "backend",
+      "description": "订单服务: 提供创建订单，查询订单的功能"
     }
   ]
 }
