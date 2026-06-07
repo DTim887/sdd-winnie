@@ -1,0 +1,9 @@
+[submodule "mall-web"]
+	path = mall-web
+	url = git@github.com:DTim887/mall-web.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:DTim887/order-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:DTim887/product-service.git
